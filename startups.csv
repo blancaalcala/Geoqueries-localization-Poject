@@ -1,67 +1,75 @@
 Name,Profile URL,Signal,Joined,Location,Market,Website,Employees,Stage,Total Raised
-SpareFoot,https://angel.co/company/sparefoot,5,Feb '11,Austin,B2B,http://www.sparefoot.com,51-200,"",49350000
-Synack,https://angel.co/company/synack,5,Mar '13,Austin,Crowdsourcing,http://www.synack.com,51-200,Series A,34000000
-LawnStarter,https://angel.co/company/lawnstarter,5,Dec '13,Austin,Bridging Online and Offline,http://www.lawnstarter.com,11-50,Seed,7225500
-Boxer,https://angel.co/company/boxer,5,Sep '12,Austin,Messaging,http://www.getboxer.com,1-10,Acquired,3800000
-Edgecase (formerly Compare Metrics),https://angel.co/company/edgecase-formerly-compare-metrics,5,Jul '11,Austin,Semantic Search,http://edgecase.io,11-50,Acquired,16275000
-Cratejoy,https://angel.co/company/cratejoy,5,Dec '13,Austin,E-Commerce Platforms,http://www.cratejoy.com,11-50,Series A,4000000
-OwnLocal,https://angel.co/company/ownlocal,5,May '11,Austin,Advertising Platforms,http://OwnLocal.com,51-200,Seed,3479000
-Pingboard,https://angel.co/company/pingboard,5,Mar '14,Austin,Human Resources,https://pingboard.com,11-50,Seed,8450000
-Spanning,https://angel.co/company/spanning,5,May '12,Austin,Google Apps,http://spanning.com,11-50,Series B,9000000
-Granify,https://angel.co/company/granify,5,Jun '11,Austin,Optimization,http://www.granify.com,11-50,"",8500000
-Riskpulse,https://angel.co/company/riskpulse,5,Aug '10,Austin,Supply Chain Management,http://riskpulse.com/home,11-50,"",2532500
-SignUp.com (formerly VolunteerSpot),https://angel.co/company/volunteerspot,5,Sep '11,Austin,Bridging Online and Offline,http://SignUp.com,11-50,"",4100000
-GameSalad,https://angel.co/company/gamesalad,5,Jun '12,Austin,Game,http://gamesalad.com/,1-10,"",7100000
-Umbel,https://angel.co/company/umbel,5,Aug '11,Austin,Big Data,http://umbel.com,51-200,Series B,28420000
-TrustRadius,https://angel.co/company/trustradius,5,Apr '13,Austin,Crowdsourcing,http://www.trustradius.com,1-10,Series A,5000000
-Nuve,https://angel.co/company/nuve,5,Jan '13,Austin,Location Based Services,http://www.nuve.us,11-50,Series A,3861667
-Phunware,https://angel.co/company/phunware,5,Dec '12,Austin,Mobile Advertising,http://www.phunware.com,51-200,Series E,78420000
-Reaction,https://angel.co/company/reaction,5,Dec '11,Austin,Product Design,http://www.reactioninc.com,11-50,Series A,12540000
-OneSpot,https://angel.co/company/onespot,5,Oct '12,Austin,Email Marketing,http://www.onespot.com,11-50,"",7482200
-TrendKite,https://angel.co/company/trendkite,5,Sep '12,Austin,Social Media Monitoring,http://www.trendkite.com,1-10,Series D,36400000
-ZeroCater,https://angel.co/company/zerocater,5,Feb '13,Austin,Restaurants,https://zerocater.com,201-500,"",5600000
-Interior Define,https://angel.co/company/interior-define,5,Nov '13,Austin,Custom Retail,http://www.interiordefine.com,51-200,Seed,3000000
-WP Engine,https://angel.co/company/wp-engine,5,Apr '11,Austin,Blogging Platforms,http://wpengine.com,201-500,Acquired,39200000
-Chewse,https://angel.co/company/chewse,5,Jan '12,Austin,Bridging Online and Offline,https://www.chewse.com/,51-200,Series B,16000000
-Carma,https://angel.co/company/carma-3,5,Sep '13,Austin,Sharing Economy,https://www.gocarma.com/,11-50,Series A,5600000
-OutboundEngine,https://angel.co/company/outboundengine-1,5,Sep '13,Austin,Small and Medium Businesses,http://www.outboundengine.com,11-50,Series B,30000000
-Punchh,https://angel.co/company/punchh,5,Aug '15,Austin,Restaurants,https://punchh.com,201-500,Series B,28135000
-Octane AI,https://angel.co/company/octane-ai,5,Jun '16,Austin,Messaging,http://www.octaneai.com,11-50,Seed,3000000
-Convey,https://angel.co/company/getconvey,5,Mar '14,Austin,Logistics Software,https://www.getconvey.com,11-50,Series B,14750000
-sonarDesign,https://angel.co/company/sonardesign,5,Jan '13,Austin,Corporate Training,http://www.sonardesign.com,1-10,Seed,3850000
-data.world,https://angel.co/company/datadotworld,5,Jul '16,Austin,Cloud Data Services,https://data.world,51-200,Series B,44700000
-Favor,https://angel.co/company/favor,5,Jul '12,Austin,Location Based Services,http://www.favordelivery.com,11-50,Acquired,15000000
-Self Financial,https://angel.co/company/self-lender,5,Sep '14,Austin,Consumer,https://www.self.inc,11-50,Series B,15500000
-Virtuix,https://angel.co/company/virtuix,5,Dec '13,Austin,Virtual Worlds,http://www.virtuix.com,11-50,"",5700000
-PeerWell,https://angel.co/company/peerwell,5,Feb '15,Austin,Medical Technologies,https://www.peerwell.co,11-50,Series A,8600000
-Pristine,https://angel.co/company/pristine-1,5,May '13,Austin,Property And Casualty Insurance Companies,http://pristine.io,11-50,Seed,6150000
-eRelevance,https://angel.co/company/erelevance,5,Jan '14,Austin,Health Care Information Technology,http://www.erelevencecorp.com,1-10,Seed,7200000
-RigUp,https://angel.co/company/rigup,5,Jun '14,Austin,Marketplaces,https://www.rigup.com,51-200,Series C,78000000
-RealSavvy,https://angel.co/company/realsavvy,5,Aug '14,Austin,Marketing,http://www.realsavvy.com,11-50,"",3460000
-RealMassive,https://angel.co/company/realmassive,5,May '15,Austin,Commercial Real Estate,http://www.realmassive.com,11-50,"",8000000
-Continuum Analytics,https://angel.co/company/continuum-analytics,5,Feb '14,Austin,Open Source,http://www.continuum.io,51-200,"",34000000
-RideScout,https://angel.co/company/ridescout,5,Sep '12,Austin,Location Based Services,http://ridescout.com,11-50,Acquired,2800000
-Civitas Learning,https://angel.co/company/civitas-learning,5,May '12,Austin,Colleges,http://www.civitaslearning.com,51-200,Series C,92049999
-Bluedot,https://angel.co/company/bluedot-innovation,5,Jul '13,Austin,Location Based Services,https://bluedot.io/,11-50,"",13000000
-RunTitle,https://angel.co/company/runtitle,5,Jul '12,Austin,Oil and Gas,http://www.RunTitle.com,11-50,Series A,12000000
-Bee Cave Games,https://angel.co/company/bee-cave-games,5,May '14,Austin,Mobile Games,http://www.beecavegames.com/,11-50,Series A,10100000
-Vault,https://angel.co/company/vaultbenefit,5,Jan '14,Austin,Personal Finance,https://vault.co,11-50,Seed,4425000
-PullRequest,https://angel.co/company/pullrequest,5,Apr '17,Austin,Enterprise Security,http://www.pullrequest.com,11-50,Series A,10300000
-Shibumi,https://angel.co/company/shibumi,5,Jan '17,Austin,SaaS,http://www.shibumi.com,11-50,"",9650000
-Perk.com,https://angel.co/company/perk-com,5,Jan '13,Austin,Loyalty Programs,http://www.perk.com,51-200,Acquired,63500000
-AlertMedia,https://angel.co/company/alert-media,5,Dec '13,Austin,Emergency Management,http://www.alertmedia.com,51-200,Series B,13010000
-ePatientFinder,https://angel.co/company/epatientfinder,5,Aug '13,Austin,Medical Devices,http://www.epatientfinder.com,1-10,Series B,14975000
-Cerebri AI,https://angel.co/company/cerebri-1,5,Apr '15,Austin,Deep Learning,http://www.cerebriai.com,51-200,"",9360000
-Toopher,https://angel.co/company/toopher,4,May '12,Austin,Location Based Services,http://toopher.com,11-50,"",2790600
-MakerSights,https://angel.co/company/makersights,4,Jan '17,Austin,Retail Technology,https://makersights.com/,11-50,Series A,11600000
-WigWag,https://angel.co/company/wigwag,4,Sep '12,Austin,Industrial Automation,http://www.wigwag.io,11-50,Seed,3000000
-Knocki,https://angel.co/company/knocki,4,Aug '15,Austin,Internet of Things,https://knocki.com,11-50,Series A,2450000
-UnaliWear,https://angel.co/company/unaliwear,4,Feb '14,Austin,Medical Devices,http://www.unaliwear.com,11-50,"",4600000
-SchooLinks,https://angel.co/company/schoolinks,4,Mar '14,Austin,K-12 Education,http://www.schoolinks.com,11-50,Seed,2300000
-Querium,https://angel.co/company/querium,4,Apr '14,Austin,Training,http://querium.com,1-10,Series A,2508200
-FeedMagnet,https://angel.co/company/feedmagnet,4,Apr '14,Austin,Social Media Marketing,http://www.feedmagnet.com,11-50,Acquired,9000000
-Stackla,https://angel.co/company/stackla,4,Mar '12,Austin,Social Media Marketing,http://stackla.com,51-200,Series A,6100000
-Insitome,https://angel.co/company/insitome,3,Jul '16,Austin,Apps,http://www.insito.me,1-10,Seed,3000000
-Movero ,https://angel.co/company/movero,3,May '14,Austin,Mobile,http://www.calero.com,201-500,"",10992300
-Green & Grow,https://angel.co/company/green-grow,3,Mar '15,Austin,Agriculture,http://www.greenandgrow.com/,11-50,Series B,6000000
-LightArrow,https://angel.co/company/lightarrow,3,May '13,Austin,B2B,http://lightarrow.com,1-10,"",2400000
+Wanderu,https://angel.co/company/wanderu,5,Sep '12,Boston,Online Travel,http://www.wanderu.com,11-50,Series A,8050000
+GreatHorn,https://angel.co/company/greathorn,5,Mar '15,Boston,Internet Infrastructure,http://www.greathorn.com,1-10,Series A,8550000
+Quantopian,https://angel.co/company/quantopian,5,Sep '11,Boston,Trading,https://www.quantopian.com,11-50,Series C,46700000
+Fancred,https://angel.co/company/fancred,5,Aug '12,Boston,Communities,http://fancred.com,1-10,Seed,4500000
+Spindle,https://angel.co/company/spindle,5,May '12,Boston,Location Based Services,http://spindle.com,1-10,Acquired,2300000
+ViralGains,https://angel.co/company/viralgains,5,Aug '12,Boston,Mobile Advertising,http://www.viralgains.com,11-50,Series A,15200000
+DataRobot,https://angel.co/company/datarobot,5,Mar '13,Boston,Predictive Analytics,http://www.datarobot.com,501-1000,Series B,57418000
+Neighborly,https://angel.co/company/neighborly,5,Sep '12,San Francisco,Impact Investing,https://neighborly.com/,11-50,"",30500000
+Lovepop,https://angel.co/company/lovepop,5,Jun '15,Boston,Retail,https://lovepop.com,11-50,Series A,21100000
+Crayon,https://angel.co/company/crayon,5,Feb '15,Boston,Brand Marketing,https://www.crayon.co,51-200,Series A,15850000
+Salsify,https://angel.co/company/salsify,5,Sep '13,Boston,Manufacturing,https://www.salsify.com/,201-500,Series C,54600000
+Renoviso,https://angel.co/company/renoviso,5,Apr '15,Boston,Home Renovation,https://renoviso.com,11-50,Series A,11900000
+Tapjoy,https://angel.co/company/tapjoy,5,Apr '12,San Francisco,Mobile Advertising,http://www.tapjoy.com,201-500,Acquired,70500000
+Apptopia,https://angel.co/company/apptopia,5,May '12,Boston,Big Data Analytics,http://apptopia.com,51-200,Seed,6005000
+Bedrock Data,https://angel.co/company/bedrock-data,5,May '14,Boston,Data Integration,http://www.bedrockdata.com,11-50,Seed,3100000
+Moltin,https://angel.co/company/moltin,5,Dec '13,Newcastle upon Tyne,Developer APIs,https://moltin.com,11-50,Seed,2120000
+VentureApp,https://angel.co/company/ventureapp,5,Jul '15,Boston,Boston,http://www.ventureapp.com,11-50,Seed,4035500
+LevelUp,https://angel.co/company/levelup,5,Sep '13,Boston,Loyalty Programs,http://www.thelevelup.com,201-500,"",50750000
+Promoboxx,https://angel.co/company/promoboxx,5,Jul '11,Boston,Content Syndication,https://www.promoboxx.com,51-200,Series A,10491000
+Localytics,https://angel.co/company/localytics,5,Aug '11,London,Messaging,http://www.localytics.com,51-200,Series D,59750000
+Flashnotes,https://angel.co/company/flashnotes,5,Sep '11,Boston,E-Commerce Platforms,http://www.flashnotes.com,11-50,"",8400000
+Smarterer,https://angel.co/company/smarterer,5,Nov '12,Boston,Human Resources,http://smarterer.com/,11-50,Acquired,79600000
+Threat Stack,https://angel.co/company/threat-stack,5,Mar '13,Boston,Cloud Management,https://www.threatstack.com,51-200,Series B,24318000
+Help Scout,https://angel.co/company/help-scout,5,Apr '12,Boston,Customer Service,https://www.helpscout.net/,51-200,Series A,6800000
+EverTrue,https://angel.co/company/evertrue,5,Mar '13,Boston,Universities,http://www.evertrue.com,11-50,Series B,14568000
+Collaborate,https://angel.co/company/collaborate,5,Jan '12,Boston,iPhone,http://www.collaborate.com,1-10,Acquired,2400000
+coUrbanize,https://angel.co/company/courbanize,5,May '13,Boston,SaaS,http://courbanize.com,11-50,Seed,3068800
+Privy,https://angel.co/company/privy,5,Feb '11,Boston,Retail Technology,https://www.privy.com,51-200,"",8114775
+Panorama Education,https://angel.co/company/panorama-education,5,Sep '13,Boston,K-12 Education,https://www.panoramaed.com/,51-200,Series B,32000000
+Benchling,https://angel.co/company/benchling,5,Aug '12,San Francisco,Synthetic Biology,https://www.benchling.com/,51-200,Series C,61900000
+Mentor Collective,https://angel.co/company/mentorcollective,5,Dec '14,Remote,Higher Education,https://www.mentorcollective.org/,11-50,Seed,4760000
+Spoiler Alert,https://angel.co/company/spoiler-alert,5,Oct '14,Boston,B2B,http://www.spoileralert.com,11-50,Seed,2500000
+WeSpire,https://angel.co/company/wespire,5,Jan '12,Boston,Hr Tech,http://wespire.com,11-50,"",6750000
+InCrowd,https://angel.co/company/incrowd,5,Jan '12,Boston,Market Research,http://www.incrowdnow.com,11-50,Seed,2550000
+WHOOP,https://angel.co/company/whoop,5,Jul '15,Boston,Analytics,http://www.whoop.com,51-200,Series C,47000000
+indico data solutions,https://angel.co/company/indico-data-solutions,5,Jul '14,Boston,Developer APIs,http://indico.io,11-50,Seed,8200000
+ThriveHive,https://angel.co/company/thrivehive,5,Sep '11,Boston,Small and Medium Businesses,http://thrivehive.com,51-200,Acquired,17300000
+Abine,https://angel.co/company/abine,5,Jun '10,Boston,Payments,http://www.abine.com,11-50,"",5000000
+Mylestone,https://angel.co/company/mylestone,5,Jan '16,Boston,Consumer,http://www.mylestone.com,11-50,"",2500000
+ExpertFile,https://angel.co/company/expertfile,5,Feb '13,Boston,SaaS,http://expertfile.com,1-10,Seed,3225000
+SidelineSwap,https://angel.co/company/sidelineswap,5,Sep '14,Boston,Marketplaces,https://sidelineswap.com/,11-50,Series A,8886500
+Scratch,https://angel.co/company/scratch-4,5,Dec '14,Boston,Shopping,https://www.tryscratch.com,11-50,"",7800000
+Robin,https://angel.co/company/robin,5,Oct '13,Boston,Smart Building,https://robinpowered.com,51-200,Series B,28400000
+Moo,https://angel.co/company/moo,5,Jan '12,London,Business Services,http://www.moo.com,201-500,Series A,10000000
+PatientPing,https://angel.co/company/patientping,5,Feb '15,Boston,Technology,http://www.patientping.com,51-200,Series B,41200000
+Understory,https://angel.co/company/understory,5,May '13,Boston,Big Data,http://understoryweather.com,1-10,Series A,9486000
+Pixability,https://angel.co/company/pixability,5,Aug '12,Boston,Brand Marketing,http://pixability.com,51-200,Series C,31549999
+Orbital Insight,https://angel.co/company/orbital-insight,5,Aug '14,Palo Alto,Insurance,https://orbitalinsight.com/,51-200,Series C,73700000
+Tap 'n Tap,https://angel.co/company/tap-n-tap,5,Aug '13,Cambridge,Mobile Advertising,http://www.tapntap.com,11-50,"",2100000
+Rifiniti,https://angel.co/company/rifiniti,5,Mar '13,Sofia,SaaS,http://www.rifiniti.com,11-50,Series A,3080000
+Happier,https://angel.co/company/happier,5,Jan '13,Boston,Personal Health,https://happier.com/,1-10,Seed,4400000
+BevSpot,https://angel.co/company/bevspot,5,Sep '14,Boston,Wine And Spirits,https://www.bevspot.com,11-50,Series B,17090000
+Madaket Health,https://angel.co/company/madaket-health,5,Dec '14,Cambridge,B2B,http://www.madakethealth.com,11-50,Series B,10000000
+Insurify,https://angel.co/company/insurify,5,Oct '13,Cambridge,Marketplaces,https://insurify.com,11-50,Seed,6600000
+Elsen,https://angel.co/company/elsen,5,Jul '14,Boston,Hedge Funds,https://elsen.co,1-10,"",2900000
+Zaius,https://angel.co/company/zaius,5,Jul '14,Boston,"",http://www.zaius.com,51-200,Series A,6300000
+lola.com,https://angel.co/company/lolatravelco,5,Dec '15,Boston,Online Travel,http://lola.com,51-200,Series C,37000000
+SmashFly,https://angel.co/company/smashfly,5,Dec '15,Concord,Social Recruiting,http://www.smashfly.com,51-200,Series B,31000000
+SimpliSafe,https://angel.co/company/simplisafe,5,Apr '14,Boston,Internet of Things,http://simplisafe.com/,51-200,"",57000000
+Buoy Health,https://angel.co/company/buoyhealth,5,May '14,Boston,Mobile Health,https://www.buoyhealth.com/,11-50,"",9100000
+Ground Signal,https://angel.co/company/groundsignal,4,Apr '15,Boston,Location Based Services,http://groundsignal.com,1-10,Series A,8025000
+LabMinds,https://angel.co/company/labminds,4,Jun '11,Oxford,Robotics,http://www.labminds.com,11-50,"",12200000
+Catch,https://angel.co/company/catchco,4,Apr '16,San Francisco,Freelancers,http://catch.co,11-50,Seed,8100000
+Micronotes,https://angel.co/company/micronotes,4,Mar '12,Cambridge,Direct Marketing,http://www.micronotes.com,1-10,"",3161000
+connectRN,https://angel.co/company/connectrn,4,Jun '14,Boston,Health Care Information Technology,http://www.connectrn.com,11-50,Series A,3100000
+QMENTA,https://angel.co/company/qmenta_inc,4,Jul '13,Boston,Neuroscience,http://www.qmenta.com,11-50,Seed,3000000
+Chalk Talk Solutions,https://angel.co/company/chalk-talk-solutions-1,4,Dec '14,Boston,Usa,http://chalktalk.academy/,11-50,Seed,4000000
+Attivio,https://angel.co/company/attivio,4,Jun '15,Boston,Big Data Analytics,http://www.attivio.com/,51-200,Series A,59200000
+edX,https://angel.co/company/edx,4,Mar '13,Cambridge,Education Technology,http://edx.org,51-200,"",60000000
+Fresh Relevance,https://angel.co/company/fresh-relevance,3,Jun '16,London,Personalization,https://www.freshrelevance.com/,11-50,Series A,2660000
+ACT.md,https://angel.co/company/act-md,3,Aug '14,Boston,Health Care Information Technology,https://act.md,11-50,Series A,8400000
+MediaSilo,https://angel.co/company/mediasilo-1,3,May '15,Boston,Video,http://www.mediasilo.com,11-50,Series A,2300000
+Akselos,https://angel.co/company/akselos,3,Nov '14,Boston,Product Design,http://www.akselos.com,11-50,"",2200000
+Fling,https://angel.co/company/fling-1,3,Nov '15,London,Messaging,http://www.flingtheworld.com,11-50,Series A,19200000
