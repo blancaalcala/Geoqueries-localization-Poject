@@ -15,6 +15,13 @@ from IPython.display import HTML
 load_dotenv()
 
 def mapResults(centre,zoom,names,colors,collections,air_coord,office_coords,name):
+    
+    '''maps the given inputs (centre and zoom of the map, names of the groups,
+    color of each group, collections from where we want to extract coordinates,
+    office coordinates and the name of the map) as grouped information
+    
+    It also saves the map in the output folder with the given name
+    '''
 
     m = folium.Map(centre, zoom_start=zoom,tiles='cartodbpositron')
 
@@ -61,6 +68,7 @@ def mapResults(centre,zoom,names,colors,collections,air_coord,office_coords,name
     m.save(f'../output/{name}.html')
     
 def mappingChoice():
+    '''Gives the user a choice to display each map the number of times he wants'''
     continue_map = bool(input("Do you want to see a map? (press enter to exit)"))
     while continue_map:
         map_name = input("Which map do you want to see? (initial_map / final_map): ")

@@ -13,6 +13,8 @@ from geopy.distance import distance as getDistance
 load_dotenv()
 
 def pointsFunction(C,office_coords,office_info,air_coord,weight):
+    '''creates a list of lists containing the ranking information of each possible office
+    (office_coords) related to all the collections (C)'''
     principal = []
     air = []
     names = []
@@ -27,6 +29,10 @@ def pointsFunction(C,office_coords,office_info,air_coord,weight):
     return principal,names,air    
 
 def nearestPlaces(collection,selector,weight):
+    '''Returns the points of each collection in terms of the distance of any element
+    of the collection to each specific office
+    Using geoqueries, we obtained the elements of each collection that fulfill the 
+    condition indicated in the geoquery'''
     points = 11
     dist=10
     conv_factor = 0.0001572065389467467/100
