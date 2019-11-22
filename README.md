@@ -27,4 +27,10 @@ Using spatial geoqueries, scraping different websites and using APIs have provid
 - starbucks_nights_vegan.ipynb : creates 3 new collections in mongo db with information about starbucks and their locations in Boston, night bars and their locations in Boston and vegan restaurants in Boston and their locations
 - offices.ipynb : performs web scraping of a website focused on office rentals in Boston and stores the obtained variables (office adress, size, coordinates and reference)
 - airport_city.ipynb : obtains the coordinates of the city centre and the airport in Boston using google places API
-- results.ipynb : Results of the localized categories are mapped (old companies, schools, startups, starbucks, night bars, offices for rent, airport and vegan restaurants). After ranking each possible office in terms of the rest of the categories depending on the chosen weight of each one of them, a csv table containing information about these offices is saved, and the chosen office (chosen by index) is mapped  in order to visualize its location.
+- results.ipynb : Results of the localized categories are mapped (old companies, schools, startups, starbucks, night bars, offices for rent, airport and vegan restaurants).
+After ranking each possible office in terms of the rest of the categories depending on the chosen weight of each one of them, a csv table containing information about these offices is saved, and the chosen office (chosen by index) is mapped  in order to visualize its location.
+
+# Output
+
+- csv file containing information about all the potential offices the company could rent
+- Two maps saved in html format in order to be able to visualize them outside jupyter notebook

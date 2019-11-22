@@ -61,7 +61,7 @@ def mapResults(centre,zoom,names,colors,collections,air_coord,office_coords,name
     m.save(f'../output/{name}.html')
     
 def mappingChoice():
-    continue_map = True
+    continue_map = bool(input("Do you want to see a map? (press enter to exit)"))
     while continue_map:
         map_name = input("Which map do you want to see? (initial_map / final_map): ")
         display(HTML(f'<iframe src=../output/{map_name}.html width=700 height=450></iframe>'))

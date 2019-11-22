@@ -12,13 +12,6 @@ from folium.plugins import Draw
 from geopy.distance import distance as getDistance
 load_dotenv()
 
-
-def connectCollection(database, collection):
-    client = MongoClient()
-    db = client[database]
-    coll = db[collection]
-    return db, coll
-
 def getLocation(_lng,_lat):
     try:
         loc = {'type':'Point',
