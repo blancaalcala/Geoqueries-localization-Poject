@@ -22,6 +22,7 @@ Using spatial geoqueries, scraping different websites and using APIs have provid
 # Src
 
 Run the scripts in this order:
+TO DO THE QUERIES YOUD NEED AN API KEY!!
 
 - old_companies.ipynb : filters companies founded before 2009 and creates a new attribute in mongo db called location in GEOJSON format
 - schools.ipynb : obtains the location of the schools from the csv file and creates a new attribute in the collection in mongo db called location in GEOJSON format
