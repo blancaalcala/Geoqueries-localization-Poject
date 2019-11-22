@@ -11,6 +11,7 @@ import folium
 from folium.plugins import MousePosition
 from folium.plugins import Draw
 from geopy.distance import distance as getDistance
+from IPython.display import HTML
 load_dotenv()
 
 def mapResults(centre,zoom,names,colors,collections,air_coord,office_coords,name):
@@ -58,4 +59,10 @@ def mapResults(centre,zoom,names,colors,collections,air_coord,office_coords,name
     ).add_to(m)
     draw.add_to(m)
     m.save(f'../output/{name}.html')
-    display(m)
+    
+def mappingChoice():
+    continue_map = True
+    while continue_map:
+        map_name = input("Which map do you want to see? (initial_map / final_map): ")
+        display(HTML(f'<iframe src=../output/{map_name}.html width=700 height=450></iframe>'))
+        continue_map = bool(input("Do you want to see another map? (press enter to exit)"))
