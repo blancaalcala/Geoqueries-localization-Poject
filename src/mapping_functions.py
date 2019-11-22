@@ -23,7 +23,7 @@ def mapResults(centre,zoom,names,colors,collections,air_coord,office_coords,name
     It also saves the map in the output folder with the given name
     '''
 
-    m = folium.Map(centre, zoom_start=zoom,tiles='cartodbpositron')
+    m = folium.Map(centre, zoom_start=zoom)
 
     school_group = folium.FeatureGroup(name=names[0]).add_to(m)
     start_group = folium.FeatureGroup(name=names[1]).add_to(m)

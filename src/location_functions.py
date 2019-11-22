@@ -43,30 +43,30 @@ def place_request(direction):
         return g.json
     
 def request_json(url):
-'''requests to a concrete url and returns the information in json format'''
+    '''requests to a concrete url and returns the information in json format'''
     res = requests.get(url).json()
     return res["results"]
 
 def getAdress(results):
-'''Returns adress atribute for a given dictionary'''
+    '''Returns adress atribute for a given dictionary'''
     return results["formatted_address"]
 
 def getPosition(results):
-'''Returns longitude and latitude of a given dictionary'''
+    '''Returns longitude and latitude of a given dictionary'''
     lng = results["geometry"]["location"]["lng"]
     lat = results["geometry"]["location"]["lat"]
     return lng,lat
 
 def insertMongo(coll,s,lng,lat):
-'''Inserts in Mongo collection (coll) the calculated atributes of location and adresss'''
+    '''Inserts in Mongo collection (coll) the calculated atributes of location and adresss'''
     coll.insert_one({'location':getLocation(lng,lat),'adress':getAdress(s)})
     
 def getRequest(url):
-'''Web parsing using Beautiful Soup'''
+    '''Web parsing using Beautiful Soup'''
     res = requests.get(url)
     soup = BeautifulSoup(res.text,"html.parser")
     return soup
 
 def checkLocation(collection):
-'''Returns a list of the elements in a collection whose coordinates exist'''
+    '''Returns a list of the elements in a collection whose coordinates exist'''
     return list(collection.find({"location.coordinates":{"$exists":True}}))
