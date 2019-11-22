@@ -13,7 +13,7 @@ from folium.plugins import Draw
 from geopy.distance import distance as getDistance
 load_dotenv()
 
-def mapResults(centre,zoom,names,colors,collections,air_coord,office_coords):
+def mapResults(centre,zoom,names,colors,collections,air_coord,office_coords,name):
 
     m = folium.Map(centre, zoom_start=zoom,tiles='cartodbpositron')
 
@@ -22,9 +22,10 @@ def mapResults(centre,zoom,names,colors,collections,air_coord,office_coords):
     old_comp_group = folium.FeatureGroup(name=names[2]).add_to(m)
     starbucks_group = folium.FeatureGroup(name=names[3]).add_to(m) 
     night_group = folium.FeatureGroup(name=names[4]).add_to(m)
+    vegan_group = folium.FeatureGroup(name=names[4]).add_to(m)
     plane_group = folium.FeatureGroup(name=names[5]).add_to(m)
     office_group = folium.FeatureGroup(name=names[6]).add_to(m)
-    groups = [school_group,start_group,old_comp_group,starbucks_group,night_group,plane_group,office_group]
+    groups = [school_group,start_group,old_comp_group,starbucks_group,night_group,vegan_group,plane_group,office_group]
 
     for g in range(len(groups)-2):
         for c in L.checkLocation(collections[g]):
@@ -56,4 +57,5 @@ def mapResults(centre,zoom,names,colors,collections,air_coord,office_coords):
         lng_formatter=formatter,
     ).add_to(m)
     draw.add_to(m)
+    m.save(f'../output/{name}.html')
     display(m)

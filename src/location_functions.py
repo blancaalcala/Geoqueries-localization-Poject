@@ -47,7 +47,7 @@ def place_request(direction):
     
 def request_json(url):
     res = requests.get(url).json()
-    return res["results"],res.get("next_page_token",None)
+    return res["results"]
 
 def getAdress(results):
     return results["formatted_address"]
